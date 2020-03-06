@@ -1,0 +1,9 @@
+.modal {
+	display: block;
+	background-color: black;
+	opacity: 0.9;
+}
+
+.modal-content {
+	opacity: 1;
+}

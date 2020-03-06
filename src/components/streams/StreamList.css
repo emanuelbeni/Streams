@@ -1,0 +1,16 @@
+.btn-info {
+	width: 80px;
+	height: 35px;
+	font-size: 0.75rem;
+}
+
+.btn-danger {
+	font-size: 0.75rem !important;
+	width: 80px !important;
+	height: 35px;
+}
+
+.btn-primary {
+	float: right;
+	font-size: 1rem;
+}
